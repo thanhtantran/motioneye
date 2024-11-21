@@ -65,3 +65,4 @@ sudo systemctl stop motioneye
 sudo python3 -m pip install --upgrade --pre motioneye
 sudo systemctl start motioneye
 ```
+![motion-eye](https://github.com/user-attachments/assets/e946504c-4802-4a74-847a-ce790849ffd4)
